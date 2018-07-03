@@ -1,0 +1,46 @@
+.jumbotron {
+
+    background-color: rgb(105, 56, 15);
+
+
+}
+
+h1, h3 {
+
+    text-align: center;
+    color: white;
+
+}
+
+#train-table{
+    border: solid rgb(95, 146, 255) 1px;
+    border-radius: 13px; 
+    border-spacing: 0;
+}
+
+table {
+
+    width: 100%;
+
+}
+
+h4{
+    border-top: solid rgb(95, 146, 255) 1px;
+    border-radius: 13px; 
+    border-spacing: 0;
+    background-color:  rgb(95, 146, 255);
+    color: white;
+}
+
+th, td {
+    border-bottom: 1px solid #ddd;
+    
+}
+
+th{
+   
+    /* border: solid rgb(27, 80, 255) 1px; */
+    padding-left: 5px;
+    color: black;
+    font-weight: bold;
+}
